@@ -1,6 +1,6 @@
 <div align="center">
 
-# Rodman
+# Rodman Guerrero
 ### Software Engineer · Full Stack .NET Developer
 
 *"Enfocado en dominar el ecosistema .NET para crear software que mueva el mundo financiero."*
@@ -111,7 +111,7 @@ Actualmente trabajo en una institución financiera desarrollando y manteniendo h
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=rodman751&show_icons=true&theme=radical&include_all_commits=true&count_private=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rodman751&layout=compact&theme=radical)
+[![GitHub Streak](https://streak-stats.demolab.com?user=rodman751&theme=radical&hide_border=true&date_format=j%20M%5B%20Y%5D&locale=es)](https://git.io/streak-stats)
 
 </div>
 
@@ -119,6 +119,6 @@ Actualmente trabajo en una institución financiera desarrollando y manteniendo h
 
 <div align="center">
 
-**Rodman García** · Software Engineer · Ecuador 🇪🇨
+**Rodman Guerrero** · Software Engineer · Ecuador 🇪🇨
 
 </div>
