@@ -36,7 +36,7 @@ Soy un desarrollador enfocado en el ecosistema **.NET/C#**, especializado en la 
 ---
 
 ## 📊 Estadísticas de GitHub
-![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=TU_USUARIO_AQUI&show_icons=true&theme=radical&include_all_commits=true&count_private=true)
+![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=rodman751&show_icons=true&theme=radical&include_all_commits=true&count_private=true)
 
 ---
 
